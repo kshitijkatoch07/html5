@@ -1,2 +1,2 @@
-kshitijkatoch07.github.com
+kshitijkatoch07.github.io
 webpage
